@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 <meta charset="UTF-8">
 <html>
 <head>
